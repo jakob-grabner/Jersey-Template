@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="smartcare">
-    <output-path>$PROJECT_DIR$/out/artifacts/smartcare</output-path>
+  <artifact type="exploded-war" name="jersey_template">
+    <output-path>$PROJECT_DIR$/out/artifacts/jersey_template</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
