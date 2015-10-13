@@ -1,4 +1,4 @@
-package at.smartcare;
+package at.grabner;
 
 
 import javax.ws.rs.GET;
