@@ -50,3 +50,7 @@ fabric.properties
 # Project specific
 /tomcat/
 /target/
+.idea/copyright/profiles_settings.xml
+.idea/compiler.xml
+.idea/misc.xml
+.idea/vcs.xml
